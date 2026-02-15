@@ -1,5 +1,3 @@
-claudiamreira/README.md
-
 # Olá, eu sou a Clau 👋
 
 🎯 Em transição de carreira para **Análise de Dados**, com foco em transformar dados reais em insights de negócio.
