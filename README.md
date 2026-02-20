@@ -25,6 +25,11 @@ Simulação financeira em Python analisando crescimento patrimonial com pequenos
 
 ➡️ [Ver projeto completo](https://github.com/claudiamreira/value-investing-brasil-projectDIO)
 
+### 🔹 Análise de Performance de Reservas
+Projeto de análise exploratória de dados de reservas utilizando PostgreSQL e SQL, com foco em métricas de performance, tendências mensais e geração de insights a partir de dados simulados.
+
+➡️ [Ver projeto completo](https://github.com/claudiamreira/sistema-reservas-postgresql)
+
 ---
 
 *(Novos projetos de análise de dados serão adicionados aqui em breve.)*
